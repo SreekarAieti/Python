@@ -1,4 +1,7 @@
-#an example of listening to the user command and performs the task accordingly
+#An example of listening to the user command and performs the task accordingly
+#A Basic listener using pyhton which helps the user to open C and D drives in pc and makes serache of any word that user speaks
+#Some how reduces the manual work of the user,It not a complete project (work in progress)
+#It uses speechRecognition,webbrowser,playsound,gtts packages in python. 
 
 
 
