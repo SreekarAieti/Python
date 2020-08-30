@@ -1,0 +1,10 @@
+opencv-python
+pillow
+opencv-contrib-python
+passlib
+shutil
+os
+numpy
+pickle
+threading
+openpyxl

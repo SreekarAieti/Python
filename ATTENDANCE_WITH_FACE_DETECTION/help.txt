@@ -1,0 +1,8 @@
+open cmd in this folder and run a command "python app.py"
+1.If you are the first person to register then you should belong to management so, just register with Authentic userID="1"(Main Admin) and search for the role
+2.Once you are registered then you (with userID='1') can able to add any number of ADMINS and SUTDENTS cause other admins with any UserID cannot
+ add Authentic users
+3.Main admin have this extra functionality of adding authentic Users(Add Member button)
+4.All admin will have functionality like update , delete, view attandance ,take attendance of the students
+5.All admins will have the rights to view today and total attendace of the registered students
+6.Student can only view their attendance
