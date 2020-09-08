@@ -1,0 +1,25 @@
+This is an application which converts the copied text into speech.
+
+->Steps to follow to work with application.
+ - 1)First copy some text 
+ - 2)Run the code
+
+Output:-
+->The text you copied will be converted into speech and u can hear.
+
+Note1:-
+  -Before running the code make sure u have copied text properly either by using shortcut keys or using the help of GUI.
+----------------------------------------------------------------------------------------------------------------------------------------
+More Information:-
+ ->You can also convert the application into a desktop application and make use of 'tkinter' and make it look good.
+ ->I also provide an .EXE file so that u can download the file and run the appliction directly.
+ ->If you are facing problem for downloading the .EXE file ,you can use 'pyinstaller' to convert your code into an .EXE file.
+------------------------------------------------------------------------------------------------------------------------------------------
+Working process:-
+ ->we have used pyperclip, gtts,playsound packages.
+ ->pyperclip helps to paste the copied text into a variable.
+ ->gtts helps to convert the text to an .mp3 file.
+ ->playsound is used to play the .mp3 file.
+
+Note2: -
+ -An auido file is generated when you run this application.(not evey time only one)
